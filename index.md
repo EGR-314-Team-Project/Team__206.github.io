@@ -1,9 +1,9 @@
 ---
-Project: Weather Station Innovation
+  EGR 314: Weather Station Project
 ---
 
 # Home
-Portable Weather Station
+Weather Station
 EGR 314, Spring 2024
 Damien, Rishik, Danial
 ## Introduction
