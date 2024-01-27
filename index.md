@@ -7,7 +7,7 @@ Weather Station
 EGR 314, Spring 2024
 Damien, Rishik, Danial
 ## Team Organization
-[]()
+[Team Organization Link](UserNeeds/UserNeedsPage.md)
 ## User Needs, Benchmarking, and Requirements
 []()
 ## Design Ideation
