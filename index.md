@@ -24,7 +24,7 @@ _Italic Text_
 
 [link to background](/background)
 (Team__206.github.io/TEST/TEST.html)
-[link](TEST%20/plz.html)
+[link](%20TEST%20/plz.html)
 ## Results
 
 1. Numbered Point 1
