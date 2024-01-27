@@ -16,16 +16,6 @@ Damien, Rishik, Danial
 ## Presentation 
 [Presentation Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
-## Results
-
-
-## Conclusions and Future Work
-
 ## External Links
 
 ## Syntax Things
