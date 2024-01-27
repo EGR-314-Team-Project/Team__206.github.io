@@ -16,18 +16,4 @@ Damien, Rishik, Danial
 ## Presentation 
 [Presentation Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## External Links
-
-## Syntax Things
-
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-[example link to idealab](https://idealab.asu.edu)
 ## References
