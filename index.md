@@ -23,7 +23,7 @@ _Italic Text_
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 [link to background](/background)
-'(Team__206.github.io/TEST/TEST.html)'
+(Team__206.github.io/TEST/TEST.html)
 
 
 ## Results
