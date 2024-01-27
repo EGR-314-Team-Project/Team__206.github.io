@@ -8,8 +8,8 @@ EGR 314, Spring 2024
 Damien, Rishik, Danial
 ## Team Organization
 [Team Organization Link](TeamOrganization/TeamOrgPage.md)
-## User Needs, Benchmarking, and Requirements
-[User Needs, Benchmarking, and Requirements Link](UserNeeds/UserNeedsPage.md)
+## User Needs, Benchmarking and Requirements
+[User Needs, Benchmarking and Requirements Link](UserNeeds/UserNeedsPage.md)
 ## Design Ideation
 [Design Ideation Link](DesignIdeation/DesignPage.md)
 
