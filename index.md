@@ -2,7 +2,7 @@
   EGR 314: Weather Station Project
 ---
 
-# Title
+# Main Page
 Weather Station
 EGR 314, Spring 2024
 Damien, Rishik, Danial
@@ -14,14 +14,13 @@ Damien, Rishik, Danial
 [Design Ideation Link](DesignIdeation/DesignPage.md)
 
 ## Presentation 
-
+[Presentation Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Background
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 [link to background](/background)
-[hmm](FirstFolder/subpage.md)
 ## Results
 
 
