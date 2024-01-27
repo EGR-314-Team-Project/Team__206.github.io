@@ -2,21 +2,19 @@
   EGR 314: Weather Station Project
 ---
 
-# Hom
+# Title
 Weather Station
 EGR 314, Spring 2024
 Damien, Rishik, Danial
-## Introduction
+## Team Organization
+[]()
+## User Needs, Benchmarking, and Requirements
+[]()
+## Design Ideation
+[]()
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+## Presentation 
 
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
 ## Background
 
@@ -26,15 +24,21 @@ _Italic Text_
 [hmm](FirstFolder/subpage.md)
 ## Results
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
 
 ## Conclusions and Future Work
 
 ## External Links
 
+## Syntax Things
+
+**Bold Text**
+_Italic Text_
+**_Bold and Italic Text_**
+* Bullet Point 1
+* Bullet Point 2
+* Bullet Point 3
+1. Numbered Point 1
+1. Numbered Point 2
+1. Numbered Point 3
 [example link to idealab](https://idealab.asu.edu)
-
-
 ## References
