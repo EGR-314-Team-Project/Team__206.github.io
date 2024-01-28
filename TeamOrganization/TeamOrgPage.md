@@ -1,6 +1,6 @@
 ## Team Organization
 
-**Team Charter:** To create a groundbreaking product that showcases a significant advancement in complexity compared to the previous EGR 304 project. This project aims to proficiently leverage our expertise in PCB design, utilizing the industry-standard tool, Cadence, to enhance our competence in this domain. Additionally, the project aims to strengthen practical skills in Computer-Aided Design (CAD) and Programming, fostering continual growth in these crucial areas.
+**Team Charter:** To create a unique product that showcases a significant advancement in complexity compared to the previous EGR 304 project. This project aims to proficiently leverage our expertise in PCB design, utilizing the industry-standard tool, Cadence, to enhance our competence in this domain. Additionally, the project aims to strengthen practical skills in Computer-Aided Design (CAD) and Programming, fostering continual growth in these crucial areas.
 
 **Product Mission Statement:**
 To create a mobile weather station that captures precise sensory data and translates it into actionable outputs, addressing defined tasks with innovation and collaborative efficiency.
