@@ -2,7 +2,7 @@
   EGR 314: Weather Station Project
 ---
 
-# Main Page
+# Title
 Weather Station
 EGR 314, Spring 2024
 Damien, Rishik, Danial
