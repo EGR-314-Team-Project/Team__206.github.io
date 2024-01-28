@@ -1,3 +1,4 @@
+# Voice of the Customer
 **Search #1 Positive Comments**
 | Voice of the Customer|Restated Customer Need |
 |----------------------|-----------------------|
@@ -68,6 +69,138 @@ e units. My last one two weeks ago was struck by baseball sized hail that broke 
 |Already broke| EXPLICIT -DURABLE|
 |The display readability is poor, requiring a very specific viewing angle for things to appear bright. The buttons on this are terrible, (loose, occasionally unresponsive, just cheap in general) Accuracy: Didn't experience any. With both units within 3 feet of each other, I received the following readings Temperature: Indoor = 188 F, Outdoor = 75 F (within 30 minutes, Indoor reading was 32 F) Humidity: Indoor = 88%, Outdoor = 41% (within 30 minutes indoor reading was blank) Time: Time and date were set, but within 20 minutes, the time was slow by 7 minutes. I went through the calibration procedure, but it would not allow calibration of the indoor sensors, and routinely failed to advance from measure to measure with button presses. In general, the behavior seemed like there were firmware bugs or poor connections. I'd say quality control and construction materials should be reviewed.|1. Display readability-Explicit 2. Accuracy of readings-Explicit 3. Button quality and responsiveness -Explicit|
 |Not very good. Wind speed sensor reads low. The weather forecasting feature is wrong more often than not. The display is too bright and the history is annoying as it continually flips from one sensor to another. If I could return this I would but have had for over a month so can't.|1. Accurate wind speed sensor-Explicit 2. Return policy-Latent|
+***
+# User Needs
+## Grouped User Needs
+* EXPLICIT - Small
+* LATENT - Lightweight
+* EXPLICIT - Easy to use
+* EXPLICIT - Easy to install
+* EXPLICIT - Automates a task
+* EXPLICIT - Internet connectivity using MQTT
+* EXPLICIT - Easy to maintain 
+* EXPLICIT - Portable
+* EXPLICIT - Easy to integrate with existing systems
+* EXPLICIT - Durable
+* EXPLICIT - Able to withstand high temperatures (43C)
+* EXPLICIT - Able to withstand low temperatures (1C)
+* EXPLICIT - Self sufficient 
+* EXPLICIT - Notifies when maintenance is required
+* EXPLICIT - Resistant to high winds speeds (haboobs)
+* EXPLICIT - Low power consumption
+* EXPLICIT - Easily replaceable parts
+* EXPLICIT - Alerts about certain conditions set by the user
+* EXPLICIT - Track certain conditions 
+* EXPLICIT - Record certain conditions for usage
+* EXPLICIT - Records are easy to obtain 
+* EXPLICIT - Follows environmental regulations 
+* EXPLICIT -  Waterproof
+* EXPLICIT - Any speed settings should be able to be modified
+* EXPLICIT -  Self Calibration features 
+* EXPLICIT - Able to process certain calculations inputted by user
+* EXPLICIT -  Language options if there is an interface
+* EXPLICIT - Cohesiveness 
+* EXPLICIT - Surface mount components
+* EXPLICIT - Must use I2C or SPI for communication between sensors and actuators
+* EXPLICIT - Scalable 
+* EXPLICIT - Backup power source
+* EXPLICIT - Time stamps for weather data
+* EXPLICIT - Manual testing and debugging features
+* EXPLICIT - User manual 
+* EXPLICIT - Dust prevention 
+* EXPLICIT - Ability for software updates
+* EXPLICIT - Users need the option to export data to cloud storage services
+* EXPLICIT - Resistant to corrosion 
+* EXPLICIT - Compatible with 5Ghz Wi-Fi connection
+* EXPLICIT - The system should be designed to minimize environmental impact
+* EXPLICIT - Low latency response for critical weather events
+* EXPLICIT - The mobile weather station should have a built-in GPS for location tracking
+* EXPLICIT - The system should provide real time alerts for varying weather conditions
+* EXPLICIT - The system should integrate solar power options for energy sustainability
+* EXPLICIT - Robust and durable housing to protect internal components
+* EXPLICIT - The motor controller should have a safety feature to prevent overheating
+* EXPLICIT - Code Written in Python or C
+* EXPLICIT - Backup data storage option in case of internet outage
+* EXPLICIT - Option to read humidity
+* EXPLICIT - Option to read wind speeds
+* EXPLICIT - Support integration with smart home systems
+* EXPLICIT - Weather resistant cover
+* LATENT Aesthetically pleasing to look at
+* EXPLICIT - Option to read temperature
+* LATENT - Color scheme matches environment
+* EXPLICIT - Cheap (under $180)
+* LATENT - Materials and colors chemically safe for animals 
+* LATENT - Clear and legible screen under different lightings 
+* LATENT - Compatible with a variety of devices
+
+
+## Passive Engineering Needs
+* EXPLICIT - Small
+* EXPLICIT - Cheap (under $180)
+* EXPLICIT - Easy to use
+* EXPLICIT - Easy to install
+* EXPLICIT - Easy to maintain 
+* EXPLICIT - Portable
+* EXPLICIT - Able to withstand high temperatures (43C)
+* EXPLICIT - Able to withstand low temperatures (1C)
+* EXPLICIT - Durable
+* EXPLICIT - Self sufficient 
+* EXPLICIT - Easily replaceable parts
+* EXPLICIT - Easy to integrate with existing systems
+* EXPLICIT - Robust and durable housing to protect internal components
+* EXPLICIT - Resistant to corrosion 
+* EXPLICIT - Resistant to high winds speeds (haboobs)
+* EXPLICIT - Low power consumption
+* EXPLICIT - Records are easy to obtain 
+* EXPLICIT - Follows environmental regulations 
+* EXPLICIT -  Waterproof
+* EXPLICIT - Scalable 
+* EXPLICIT - Dust prevention 
+* EXPLICIT - Capacity for software updates
+* EXPLICIT - Low latency response for critical weather events
+* EXPLICIT - Code Written in Python or C
+* LATENT - Lightweight
+* EXPLICIT - Compatible with 5Ghz Wi-Fi connection
+* EXPLICIT - Internet connectivity using MQTT
+* EXPLICIT - Automates a task
+* EXPLICIT - Must use I2C or SPI for communication between sensors and actuators
+* EXPLICIT - The system should be designed to minimize environmental impact
+
+
+## Active Engineering Needs
+* EXPLICIT - Notifies when maintenance is required
+* EXPLICIT - Alerts about certain conditions set by the user
+* EXPLICIT - Track certain conditions 
+* EXPLICIT - Record certain conditions for usage
+* EXPLICIT - Any speed settings should be able to be modified
+* EXPLICIT -  Self Calibration features 
+* EXPLICIT - Able to process certain calculations inputted by user
+* EXPLICIT -  Language options if there is an interface
+* EXPLICIT - Must use surface mount components
+* EXPLICIT - Backup power source
+* EXPLICIT - Time stamps for weather data
+* EXPLICIT - Manual testing and debugging features
+* EXPLICIT - User manual 
+* EXPLICIT - Users need the option to export data to cloud storage services
+* EXPLICIT - The mobile weather station should have a built-in GPS for location tracking
+* EXPLICIT - The system should provide real time alerts for varying weather conditions
+* EXPLICIT - The system should integrate solar power options for energy sustainability
+* EXPLICIT - The motor controller should have a safety feature to prevent overheating
+* EXPLICIT - Backup data storage option in case of internet outage
+* EXPLICIT - Option to read humidity
+* EXPLICIT - Option to read wind speeds
+* EXPLICIT - Support integration with smart home systems
+* EXPLICIT - Option to read temperature
+* LATENT - Compatible with a variety of devices
+
+## Cosmetics
+* LATENT - Color scheme matches environment
+* LATENT - Materials and colors chemically safe for animals 
+* LATENT - Clear and legible screen under different lightings 
+* LATENT - Aesthetically pleasing to look at
+* EXPLICIT - Cohesiveness
+* EXPLICIT - Weather resistant cover
+
 
 
 
