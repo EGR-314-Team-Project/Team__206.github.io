@@ -3,11 +3,15 @@
 ---
 
 # Title
-Weather Station
+* Weather Station
 
-EGR 314 Spring 2024
+* Team 206
 
-Damien, Rishik, Danial
+* Damien, Rishik, Danial
+
+* January 27th, 2024
+
+* Prof. Travis Kelley
 
 ## Team Organization
 [Team Organization Link](TeamOrganization/TeamOrgPage.md)
