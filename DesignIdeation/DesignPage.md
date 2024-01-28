@@ -6,7 +6,7 @@ Our team approached the start of the design ideation process by individually bra
 
 
 By listing all the possible requirements, industry applications and aesthetic elements in separate columns we were able to pick paths that consisted of one element per column without duplicates. And at the end of the table we had a possible idea for a product. This ballooned our possible options from 25 to 6720. It became a lot easier after creating different products. With more to work with, we used a simple tier list to rank ideas according to our defined user needs and requirements, with S being a serious choice for the main project, going down to C which were projects that could be good but difficult to fit with our current time schedule
-
+***
 ![alt text](../AppendixFolder/TierList.png) 
 
 After ranking, we chose our S tier options and utilized AI generated images to get an initial concept 
