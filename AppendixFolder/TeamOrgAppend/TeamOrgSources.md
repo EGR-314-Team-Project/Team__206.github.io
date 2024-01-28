@@ -9,11 +9,11 @@ Communication to the instructor will be handled via email in which the person wi
 ## Meeting Schedule
 In order for the team to conduct meetings, a text reminder will be sent out on the day of the meeting both a couple of hours prior and immediately before. Meetings will occur on a consistent agreed upon schedule. Assuming a meeting change happens in response to the relative workload required for a 314 assignment, changing meeting times will be discussed in class with a text sent out as a reminder. Under other circumstances, a discussion will be conducted via text in-order to determine a new meeting time. It is preferred that meetings happen face-to-face on the ASU Polytechnic campus though Zoom will be available as needed. 
 
-[OH NO!]()
+[OH NO!](Contact%20and%20Scheduling.png)
 
 ## Roles & Responsibilities
 
-[OH NO!]() 
+[OH NO!](Roles%20and%20Responsibilites.png) 
 
 
 For our team, project roles are to be picked voluntarily, and once assigned, they are to remain in that role unless there is an accommodation that is required that prevents them from satisfying said position. This should be communicated in advance. In such a scenario, a consensus will be reached among the team members for who is best capable to fulfill the role switch or the responsibilities of the role in question can be distributed among the different roles. However, if a role switch is not required but only assistance is, any role is allowed to assist at any time. 
@@ -53,4 +53,4 @@ _Conflict Resolution Protocol_
 
 7) Any debate to change to this protocol can be started by any present participant
 
-[OH NO!]()
+[OH NO!](Signatures.png)
