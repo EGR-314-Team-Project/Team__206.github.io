@@ -1,1 +1,1 @@
-[Appendix A: Team Organization] (TeamOrgAppend/TeamOrgSources.md)
+[Appendix A: Team Organization](TeamOrgAppend/TeamOrgSources.md)
