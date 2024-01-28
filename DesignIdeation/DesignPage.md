@@ -1,4 +1,4 @@
-## Design Ideation
+# Design Ideation
 
 Our team approached the start of the design ideation process by individually brainstorming ideas. There was no limit or personal requirements. We just needed to create as many ideas as possible. We came up with roughly 20  ideas but we began to run into obstacles as we continued to do more and eventually plateaued around 25. We then decided we needed to do something more systematic. Our team then created the Morphological Chart
 
