@@ -1,1 +1,1 @@
-[Appendix A: Team Organization](../AppendixFolder/TeamOrgAppend/TeamOrgSources.md)"Fix pathing error" 
+[Appendix A: Team Organization] (TeamOrgAppend/TeamOrgSources.md)
