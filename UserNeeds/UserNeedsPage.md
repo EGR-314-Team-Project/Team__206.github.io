@@ -73,3 +73,5 @@ To assign appropriate weights to each need, our team employed an approach that p
 **Active Engineering Needs**
 
 ![Active](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/AppendixFolder/UserNeedsAppend/ACTIVEMETAJAM.png?raw=true)
+***
+In summary, our weather station project originated from a thorough analysis of user reviews on Amazon, helping us identify crucial user needs. Through team discussions, we translated these needs into detailed engineering specifications, considering both active and passive requirements. The importance assigned to each specification was based on user feedback and internal evaluations. Our design assessment strategy includes rigorous functional, usability, and reliability testing, aiming to not just meet but exceed user expectations.
