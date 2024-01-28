@@ -3,6 +3,7 @@ In the initial phase, our team conducted extensive research by analyzing user co
 
 The collected data was then meticulously organized by identifying common themes and patterns in the user feedback. Needs were categorized into distinct groups such as functionality, usability, durability, and connectivity. To ensure a targeted approach, the team prioritized these needs based on their perceived significance to users and alignment with the overarching project goals.
 
+**User Needs and Grouping in Appendix B**
 
 ## Voice of the Customers Benchmarking
 The process of deriving user needs was conducted by extensively researching user comments on related products available online, particularly focusing on customer reviews on platforms like Amazon. The team meticulously analyzed the feedback and opinions shared by users who had hands-on experience with similar weather stations. By extracting valuable insights from these reviews, the team identified recurring themes and specific requirements voiced by the users. The focus on existing product reviews ensured that the derived user needs were rooted in real-world user experiences and expectations, enhancing the relevance and authenticity of the specified requirements for the envisioned weather station concept. This data-driven approach from actual users on e-commerce platforms played a pivotal role in shaping the foundational aspects of the product design.
@@ -47,7 +48,7 @@ Keywords: [Small Weather Station](https://www.amazon.com/AcuRite-00622-Weather-T
 * Vendor: Amazon
 * Description: A High-precision 3-in-1 wireless weather sensor. Measures the temperature, humidity and wind speed and displays data to a screen. Easy setup and mounting with instructions
 ***
-**Users positive and negative comments in Appendix A**
+**Users positive and negative comments in Appendix B**
 ***
 ## Jamboard
 Once the needs were thoroughly understood and weighted, the team proceeded to convert them into precise specifications. This involved translating user needs into functional requirements. For example, if users emphasized the need for accurate temperature readings, a specification was developed: "Temperature sensor with an accuracy of ±1°C." Design considerations were also incorporated into these specifications, addressing how each need would be met. For instance, if durability was a crucial requirement, specifications included details about materials and construction methods ensuring the product's longevity.
