@@ -11,6 +11,8 @@ By listing all the possible requirements, industry applications and aesthetic el
 
 After ranking, we chose our S tier options and utilized AI generated images to get an initial concept 
 ***
+**Portable Weather Device**
+
 ![OH NO!](../AppendixFolder/Beehive%20feeder.png)
 
 
@@ -22,6 +24,8 @@ In response to low water levels, the device includes a water dispenser powered b
 
 One noteworthy feature is the capability to transmit all collected sensor data to an external device via the internet. This enables beekeepers to remotely monitor hive conditions in real-time, providing insights into the well-being of the colony. Moreover, users have the flexibility to manually activate the fans when needed, offering a hands-on approach to hive management.
 ***
+**Greenhouse**
+
 ![OH NO!](../AppendixFolder/KoppenStation.png)
 
 
@@ -29,6 +33,8 @@ Concept two introduces an innovative mini greenhouse equipped with a micro-weath
 
 Moreover, the recorded data from the micro-weather station can be seamlessly transmitted via WiFi to external devices. This not only provides real-time monitoring of the greenhouse conditions but also allows users to make informed decisions remotely. The concept not only showcases advancements in precision agriculture but also demonstrates a commitment to sustainable and efficient greenhouse management practices.
 ***
+**Canopy Beehive**
+
 ![OH NO!](../AppendixFolder/beehcanopy.png)
 
 
