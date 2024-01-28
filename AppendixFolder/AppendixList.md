@@ -1,2 +1,2 @@
 [Appendix A: Team Organization](TeamOrgAppend/TeamOrgSources.md)
-[Appendix B: User Needs]()
+[Appendix B: User Needs](UserNeedsAppend/USASources.md)
