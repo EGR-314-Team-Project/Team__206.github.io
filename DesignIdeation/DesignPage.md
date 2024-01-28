@@ -10,7 +10,7 @@ By listing all the possible requirements, industry applications and aesthetic el
 ![alt text](../AppendixFolder/TierList.png) 
 
 After ranking, we chose our S tier options and utilized AI generated images to get an initial concept 
-
+***
 ![OH NO!](../AppendixFolder/Beehive%20feeder.png)
 
 
@@ -21,17 +21,14 @@ The device is equipped with a temperature sensor that continuously monitors the 
 In response to low water levels, the device includes a water dispenser powered by a motor. This dispenser ensures that the bee colony stays hydrated by autonomously providing water when needed, relieving hive owners from manual intervention.
 
 One noteworthy feature is the capability to transmit all collected sensor data to an external device via the internet. This enables beekeepers to remotely monitor hive conditions in real-time, providing insights into the well-being of the colony. Moreover, users have the flexibility to manually activate the fans when needed, offering a hands-on approach to hive management.
-
-
+***
 ![OH NO!](../AppendixFolder/KoppenStation.png)
 
 
 Concept two introduces an innovative mini greenhouse equipped with a micro-weather station designed to record and control key environmental factors, including temperature, humidity, and water levels. This sophisticated system allows users to customize and regulate the internal climate based on specific preferences. Remarkably, users can manipulate the Köppen climate classification inside the greenhouse, tailoring it to their desired conditions. The integration of such flexibility enables the cultivation of a diverse range of plants that thrive in different climates.
 
 Moreover, the recorded data from the micro-weather station can be seamlessly transmitted via WiFi to external devices. This not only provides real-time monitoring of the greenhouse conditions but also allows users to make informed decisions remotely. The concept not only showcases advancements in precision agriculture but also demonstrates a commitment to sustainable and efficient greenhouse management practices.
-
-
-
+***
 ![OH NO!](../AppendixFolder/beehcanopy.png)
 
 
