@@ -11,7 +11,7 @@
 
 * January 27th, 2024
 
-* Prof. Travis Kelley
+* Arizona State University, EGR 314, Prof. Travis Kelley
 
 ## Team Organization
 [Team Organization Link](TeamOrganization/TeamOrgPage.md)
