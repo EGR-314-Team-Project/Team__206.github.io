@@ -4,7 +4,7 @@
 Our team will be communicating primarily through Discord. For meetings that require all members to be present, in person meeting is preferable but if all members can not attend, such meeting will be done via Zoom or a Discord video call.
 Communication to the instructor will be handled via email in which the person will tag the rest of the team in the correspondence. 
 
-[OH NO!](.../TeamOrgAppend/Communication channel.png)
+[OH NO!](AppendixFolder/TeamOrgAppend/Communication$20channel.png)
 
 ## Meeting Schedule
 In order for the team to conduct meetings, a text reminder will be sent out on the day of the meeting both a couple of hours prior and immediately before. Meetings will occur on a consistent agreed upon schedule. Assuming a meeting change happens in response to the relative workload required for a 314 assignment, changing meeting times will be discussed in class with a text sent out as a reminder. Under other circumstances, a discussion will be conducted via text in-order to determine a new meeting time. It is preferred that meetings happen face-to-face on the ASU Polytechnic campus though Zoom will be available as needed. 
