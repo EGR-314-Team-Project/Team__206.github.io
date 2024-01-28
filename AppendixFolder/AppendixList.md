@@ -1,1 +1,1 @@
-![FIGURE1]()
+[Appendix A: Team Organization](AppendixFolder/TeamOrgAppend/TeamOrgSources.md)
