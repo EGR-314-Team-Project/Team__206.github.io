@@ -22,6 +22,18 @@
 ## Design Ideation
 [Design Ideation Link](DesignIdeation/DesignPage.md)
 
+## Selected Design
+
+## Block Diagram
+
+## Component Selection
+
+## Microcontroller Selection
+
+## Hardware Proposal
+
+## Software Proposal
+
 ## Appendix
 [Appendix List](AppendixFolder/AppendixList.md)
 
