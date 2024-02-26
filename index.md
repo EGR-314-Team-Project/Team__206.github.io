@@ -29,7 +29,7 @@
 [Block Diagram Link](BlockDiagram/BD_ShowPDF.md)
 
 ## Component Selection
-[Component Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/ComponentSelection/ComponentSelection.md)
+[Component Selection Link](ComponentSelection/ComponentSelection.md)
 
 ## Microcontroller Selection
 [Microcontroller Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/MicrocontrollerSelection/MicrocontrollerSelection.md)
