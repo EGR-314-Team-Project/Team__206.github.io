@@ -2,4 +2,4 @@
 
 [Appendix B: User Needs](UserNeedsAppend/USASources.md)
 
-[Appendix C: Component Selection](AppendixFolder/UserNeedsAppend/ComponentSelection.md)
+[Appendix C: Component Selection](UserNeedsAppend/ComponentSelection.md)
