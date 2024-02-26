@@ -69,7 +69,28 @@ Keywords: [Small Weather Station](https://www.amazon.com/AcuRite-00622-Weather-T
 * Vendor: Amazon
 * Description: A High-precision 3-in-1 wireless weather sensor. Measures the temperature, humidity and wind speed and displays data to a screen. Easy setup and mounting with instructions
 
+**Search #5 Positive Comments**
+
+| Voice of the Customer | Restated Customer Need |
+|-----------------------|-----------------------|
+| This is my third AcuRite station I've bought over the past 10 years, only because of weather related issues with the outside units. My last one two weeks ago was struck by baseball sized hail that broke off one of my wind scoops. Luckily, even with the new outside unit, my other previous inside monitors still pick it up, so now I have three monitors of all sorts in my house. I do like the color monitor with this new unit. I'm not sure why people say they can't read theirs from different angles because I plugged mine in and can read it perfectly from all angles. It also looks good and is easier to read when the room is dark. | 1. Weather station durability - Latent 2. Color display preference - Latent 3. Variable display angle visibility - Latent |
+| Had a minimal sensor AcuRite and placed the outside sensor in the shade but weather is such a big thing in Tucson I added an upgrade and the sensor is in the sun with a wind speed. Set up was EASY and put both on channel C added batteries and it worked Using to compare to the other the inside is very close and the in sun temps is up a few degrees. I LOVE the black background- the other lite up the roommate night but that's OK both are cool the combo is priced right, good quality and accurate so far-plus easy to set up | 1. Weather station placement flexibility - Explicit 2. Ease of setup - Explicit 3. Affordability - Explicit |
+| I had other weather stations that only showed the dew point until you reached certain temps, then it switched to heat index or wind chill, this one will show it all the time if you want. I love the extra features over some others I've had before like seeing not only the day high and low, but also the months high/low and all time high/low. I had a receiver for an older model Acurite 3 in 1, and it works off of the sensor as well, so anyone who is wondering if you can use more than one receiver for this, it's possible. Now I keep my older one upstairs in my bedroom and this main one in the kitchen. The screen is very bright with adjustable brightness, very easy to read. | 1. Adjustable brightness for display - Explicit 2. Compatibility with older models - Explicit 3. Comprehensive historical data - Explicit |
+
+
 ***
+
+**Search #5 Negative Comments**
+
+| Voice of the Customer | Restated Customer Need |
+|-----------------------|-----------------------|
+| Already broke | Explicit - Durable |
+| The display readability is poor, requiring a very specific viewing angle for things to appear bright. The buttons on this are terrible, (loose, occasionally unresponsive, just cheap in general) Accuracy: Didn't experience any. With both units within 3 feet of each other, I received the following readings Temperature: Indoor = 188 F, Outdoor = 75 F (within 30 minutes, Indoor reading was 32 F) Humidity: Indoor = 88%, Outdoor = 41% (within 30 minutes indoor reading was blank) Time: Time and date were set, but within 20 minutes, the time was slow by 7 minutes. I went through the calibration procedure, but it would not allow calibration of the indoor sensors, and routinely failed to advance from measure to measure with button presses. In general, the behavior seemed like there were firmware bugs or poor connections. I'd say quality control and construction materials should be reviewed. | 1. Display readability - Explicit 2. Accuracy of readings - Explicit 3. Button quality and responsiveness - Explicit |
+| Not very good. Wind speed sensor reads low. The weather forecasting feature is wrong more often than not. The display is too bright and the history is annoying as it continually flips from one sensor to another. If I could return this I would but have had for over a month so can't. | 1. Accurate wind speed sensor - Explicit 2. Return policy - Latent |
+
+
+***
+
 **Users positive and negative comments in Appendix B**
 
 ***
