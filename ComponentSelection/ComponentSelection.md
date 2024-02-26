@@ -13,9 +13,9 @@ With a focus on providing three viable alternatives for each major component, th
 
 ![MD](https://m.media-amazon.com/images/I/31f0H4YxZxL._SY445_SX342_QL70_FMwebp_.jpg)
 
-IFX9201SGAUMA1
+**IFX9201SGAUMA1**
 
-$4.00 each
+**$4.00 each**
 
 **Choice:** Option 3
 
@@ -26,9 +26,9 @@ $4.00 each
 
 ![Motor](https://m.media-amazon.com/images/I/51+9dm50prL._SX522_.jpg)
 
-22N28-213E.286
+**22N28-213E.286**
 
-56.52$ each 
+**56.52$ each**
 
 **Choice:** Option 1
 
@@ -41,9 +41,9 @@ Moreover, the inherent characteristic of DC motors to operate at lower noise lev
 
 ![Sen](https://m.media-amazon.com/images/I/317S7jPKDQL._SY445_SX342_QL70_FMwebp_.jpg)
 
-P3T1755DPZ
+**P3T1755DPZ**
 
-$0.45 each 
+**$0.45 each**
 
 **Choice:** Option 3
 
@@ -55,9 +55,9 @@ At first Option 1 seemed like a good pick during our research. It had a stronger
 
 ![sens](https://m.media-amazon.com/images/I/51ZhGYdTxgL._SX522_.jpg)
 
-SHT40-AD1B-R2
+**SHT40-AD1B-R2**
 
-$2.58 each
+**$2.58 each**
 
 **Choice:** Option 1
 
@@ -68,9 +68,9 @@ $2.58 each
 
 ![OpampNONINV](https://m.media-amazon.com/images/I/41I93DRzzAL._SY445_SX342_QL70_FMwebp_.jpg)
 
-LM324D
+**LM324D**
 
-$0.92 each
+**$0.92 each**
 
 **Choice:** Option 1
 
@@ -81,9 +81,9 @@ $0.92 each
 
 ![SwitchingReg](https://m.media-amazon.com/images/I/41fLNl-YymL._SX522_.jpg)
 
-AP3012KTR-G1
+**AP3012KTR-G1**
 
-$0.47 each 
+**$0.47 each** 
 
 **Choice:** Option 2
 
@@ -94,9 +94,9 @@ $0.47 each
 
 ![Battery](https://m.media-amazon.com/images/I/61EIKTPeVAL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
 
-9.6V 1500mAh NI-MH Rechargeable Battery Pack 
+**9.6V 1500mAh NI-MH Rechargeable Battery Pack**
 
-$11.98 each
+**$11.98 each**
 
 **Choice:** Option 3
 
