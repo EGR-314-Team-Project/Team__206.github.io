@@ -1,2 +1,2 @@
 # Test
-![OH NO!](SelectedDesign/ExplodedView.jpg)
+![OH NO!](/ExplodedView.jpg)
