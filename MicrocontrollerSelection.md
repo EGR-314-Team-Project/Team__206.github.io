@@ -37,4 +37,7 @@ The team went through a process to select the most suitable microcontroller for 
 ***
 ### 4. Final Microcontroller Choice and Rationale
 
+**Choice:** Option 1
+
+**Rationale:**
 PIC18LF26K22 is going to be our first option due to various reasons.  It offers a wide range of features suitable for various applications. These features include a high-performance RISC CPU, numerous I/O pins, analog peripherals, communication interfaces like SPI, I2C, and UART, timers, and PWM modules. The "LF" in its name signifies its low power consumption characteristics, making it suitable for battery-powered or low-power applications. This is crucial for devices that need to operate for extended periods without external power sources. In addition, The PIC 18LF26K22 is versatile, capable of handling diverse tasks across different applications, from simple control tasks to more complex embedded systems. Its rich set of peripherals and memory options contribute to this versatility. Considering its array of features, the PIC 18LF26K22 emerges as the most convenient choice, offering ample I/O pins alongside the capability for simultaneous communication via both SPI and I2C interfaces and low power requirments which is best suited for our project.
