@@ -1,2 +1,2 @@
 # Test
-![OH NO!](TeamOrgAppend/ExplodedView.jpg)
+![OH NO!](AppendixFolder/TeamOrgAppend/ExplodedView.jpg)
