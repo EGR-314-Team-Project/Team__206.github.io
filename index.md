@@ -38,7 +38,7 @@
 [Hardware Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/HardwareProposal.md)
 
 ## Software Proposal
-[Software Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/SoftwareProposal.md)
+[Software Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/Software%20diagram.pdf)
 
 ## Appendix
 [Appendix List](AppendixFolder/AppendixList.md)
