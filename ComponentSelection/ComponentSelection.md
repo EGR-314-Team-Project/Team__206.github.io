@@ -11,7 +11,7 @@ With a focus on providing three viable alternatives for each major component, th
 
 ### Motor Driver
 
-![MD](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/376/P-PG-DSO-12.jpg)
+![MD](https://m.media-amazon.com/images/I/31f0H4YxZxL._SY445_SX342_QL70_FMwebp_.jpg)
 
 IFX9201SGAUMA1
 
@@ -24,7 +24,7 @@ $4.00 each
 ***
 ### Motor
 
-![Motor](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1301/MFG_22S28.jpg)
+![Motor](https://m.media-amazon.com/images/I/51+9dm50prL._SX522_.jpg)
 
 22N28-213E.286
 
