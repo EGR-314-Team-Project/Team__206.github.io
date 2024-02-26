@@ -11,6 +11,6 @@ here is an exploded version of our device. With all key components labelled. But
 
 ![OH NO!](../SelectedDesign/pocket%20mesh.jpg)
 
-Lastly, or devices is fastened to the hive using woodscrews in the given spaces located here in the backview. Additionally the internatal temperature sensening device can be seen indicated by the arrow pointing at the green space. 
+Lastly, or devices is fastened to the hive using woodscrews in the given spaces located here in the backview. Additionally the internal temperature sensening device can be seen indicated by the arrow pointing at the green space. 
 
 ![OH NO!](../SelectedDesign/backshot.jpg)
