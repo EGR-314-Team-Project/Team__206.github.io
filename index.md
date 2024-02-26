@@ -35,7 +35,7 @@
 [Microcontroller Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/MicrocontrollerSelection.md)
 
 ## Hardware Proposal
-[Hardware Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/HardwareProposal.md)
+[Hardware Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/HardwareProposal/HardwareProposal.md)
 
 ## Software Proposal
 [Software Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/Software%20diagram.pdf)
