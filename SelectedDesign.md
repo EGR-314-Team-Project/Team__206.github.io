@@ -1,3 +1,0 @@
-## OUR SELECTED DESIGN
-
-# Welcome!
