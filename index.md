@@ -23,22 +23,22 @@
 [Design Ideation Link](DesignIdeation/DesignPage.md)
 
 ## Selected Design
-[Selected Design Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/SelectedDesign.md)
+[Selected Design Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/SelectedDesign/SelectedDesign.md)
 
 ## Block Diagram
-[Block Diagram Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/Team%20Project%20Block%20Diagram.pdf)
+[Block Diagram Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/BlockDiagram/Team206_BlockDiagram.pdf)
 
 ## Component Selection
-[Component Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/ComponentSelection.md)
+[Component Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/ComponentSelection/ComponentSelection.md)
 
 ## Microcontroller Selection
-[Microcontroller Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/MicrocontrollerSelection.md)
+[Microcontroller Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/MicrocontrollerSelection/MicrocontrollerSelection.md)
 
 ## Hardware Proposal
 [Hardware Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/HardwareProposal/HardwareProposal.md)
 
 ## Software Proposal
-[Software Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/Software%20diagram.pdf)
+[Software Proposal Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/SoftwareDiagram/SoftwareDiagram.pdf)
 
 ## Appendix
 [Appendix List](AppendixFolder/AppendixList.md)
