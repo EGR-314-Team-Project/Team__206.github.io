@@ -14,7 +14,9 @@ The team went through a process to select the most suitable microcontroller for 
 |Built-in I2C? SPI? How many? | Need at least 2 I2C and 1 SPI | (2,2) | (2,2) | (2,2) |
 | Built-in UART? How many? | Need at least 2 pins | 2 | 2 | 2 |
 |Additional considerations specific to your project specifications (optional)| Since our project will be outside it must be able to operate from 0C-45C minimum | -40℃ to 85℃ | -40℃ to 85℃ | -40℃ to 85℃ |
+
 ***
+
 ### 2. Microcontroller Information and Part Details
 
 | Microcontroller Considerations  | Instructions | PIC Option 1 | PIC Option 2 | PIC Option 3 |
@@ -25,7 +27,9 @@ The team went through a process to select the most suitable microcontroller for 
 | Programming Hardware, Cost, and URL | Find on the Microcontroller Product Page | MPLAB® X, Free, [Link](https://www.microchip.com/development-tools/) | MPLAB® ICD 5 In-Circuit Debugger/Programmer,$399.99, [Link](https://www.microchip.com/en-us/development-tool/DV164055) | MPAB X, MPAB ICD, ICE, [Link](https://www.microchip.com/en-us/development-tool/dv244140) |
 | Works with MPLAB® X Integrated Development Environment (IDE)? | Required | Yes | Yes | Yes |
 | Works with Microchip Code Configurator? | Required | Yes | Yes | Yes |
+
 ***
+
 ### 3. Overall Pros, Cons, and Rankings for chosen Microcontrollers 
 
 | Overall Pros, Cons, and Rankings | Two for each | PIC Option 1 | PIC Option 2 | PIC Option 3 |
@@ -35,6 +39,7 @@ The team went through a process to select the most suitable microcontroller for 
 | Rankings                         | First Choice = 1, Second Choice = 2, Third Choice = 3 | 1 | 2 | 3 |
 
 ***
+
 ### 4. Final Microcontroller Choice and Rationale
 
 **Choice:** Option 1
