@@ -9,6 +9,7 @@
 | This meter works well and has the same ammonia reading as the five gas meter we were using. The readout is hard to see in bright sunlight but is great inside silos. | 1. Readout visibility in varying lighting conditions - Latent 2. Effective usage in specific environments - Explicit 3. Accurate ammonia reading - Explicit |
 
 ***
+
 **Search #1 Negative Comments**
 
 | Voice of the Customer | Restated Customer Need |
@@ -16,7 +17,9 @@
 | Product worked great for 7 months. Then stopped charging with just a red blinking light. Expensive given the short life cycle. | 1. Reliable and long-lasting performance - Explicit 2. Effective charging mechanism - Latent 3. Value for money and durability - Explicit |
 | It does what it is supposed to do. Unit doesn’t last long, though. It’s made pretty flimsy. Definitely the best price you’ll find. | 1. Durability and longevity - Explicit 2. Affordability - Explicit 3. Functional performance - Explicit |
 | While the product initially performs its function, I've noticed a significant decline in its effectiveness over time. The build quality is questionable, and the unit seems prone to wear and tear. Despite the seemingly attractive price, the short lifespan and deterioration in performance make it less appealing in the long run. | 1. Reliable long-term performance - Explicit 2. Durable - Latent 3. Performance over cost - Latent |
+
 ***
+
 **Search #2 Positive Comments**
 
 | Voice of the Customer | Restated Customer Need |
