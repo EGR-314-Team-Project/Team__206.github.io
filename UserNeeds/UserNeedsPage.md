@@ -47,10 +47,14 @@ Keywords: [Small Weather Station](https://www.amazon.com/AcuRite-00622-Weather-T
 * Price: $106.17
 * Vendor: Amazon
 * Description: A High-precision 3-in-1 wireless weather sensor. Measures the temperature, humidity and wind speed and displays data to a screen. Easy setup and mounting with instructions
+
 ***
 **Users positive and negative comments in Appendix B**
+
 ***
+
 ## Jamboard
+
 Once the needs were thoroughly understood and weighted, the team proceeded to convert them into precise specifications. This involved translating user needs into functional requirements. For example, if users emphasized the need for accurate temperature readings, a specification was developed: "Temperature sensor with an accuracy of ±1°C." Design considerations were also incorporated into these specifications, addressing how each need would be met. For instance, if durability was a crucial requirement, specifications included details about materials and construction methods ensuring the product's longevity.
 
 To assign appropriate weights to each need, our team employed an approach that prioritizes needs which surfaced more frequently in user interviews and were assigned higher weights. For instance, if product reliability was a common concern mentioned by 80% of users, it received a correspondingly higher weight. Additionally, qualitative data was considered to fine-tune these weights. If a particular need was strongly emphasized by users, it was granted a higher weight, even if it wasn't the most frequently mentioned.
@@ -74,5 +78,6 @@ To assign appropriate weights to each need, our team employed an approach that p
 **Active Engineering Needs**
 
 ![Active](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/AppendixFolder/UserNeedsAppend/ACTIVEMETAJAM.png?raw=true)
+
 ***
 In summary, our weather station project originated from a thorough analysis of user reviews on Amazon, helping us identify crucial user needs. Through team discussions, we translated these needs into detailed engineering specifications, considering both active and passive requirements. The importance assigned to each specification was based on user feedback and internal evaluations. Our design assessment strategy includes rigorous functional, usability, and reliability testing, aiming to not just meet but exceed user expectations.
