@@ -6,7 +6,7 @@ With a focus on providing three viable alternatives for each major component, th
 
 ## Major Component Selection
 
-**Component Tables in Appendix ...**
+**Component Tables in Appendix C**
 
 
 ### Motor Driver
