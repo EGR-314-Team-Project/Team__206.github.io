@@ -26,7 +26,7 @@
 [Selected Design Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/SelectedDesign.md)
 
 ## Block Diagram
-[Block Diagram Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/BlockDiagram.md)
+[Block Diagram Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/Team%20Project%20Block%20Diagram.pdf)
 
 ## Component Selection
 [Component Selection Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/ComponentSelection.md)
