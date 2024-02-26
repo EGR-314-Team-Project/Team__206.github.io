@@ -11,6 +11,12 @@ With a focus on providing three viable alternatives for each major component, th
 
 ### Motor Driver
 
+![MD](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/376/P-PG-DSO-12.jpg)
+
+IFX9201SGAUMA1
+
+$4.00 each
+
 **Choice:** Option 3
 
 **Rationale:** The IFX9201SGAUMA1 is the most suitable option mainly due to its high current handling limit, and protection, alongside a higher PWM frequency support over the DRV8835. The addition of a sleep mode during the inactive phases allows for efficient power management in the IFX9201SGAUMA1 by minimizing current consumption. Having this feature being absent in the TB6612FNG and DRV8835 DSSR is profoundly advantageous for the IFX9201SGAUMA1 motor driver, integrated into a mobile weather station powered by batteries, helping to conserve energy and extend battery life. These factors collectively contribute to the suitability of the IFX9201SGAUMA1 for the specific requirements of the mobile weather station project.
@@ -18,13 +24,26 @@ With a focus on providing three viable alternatives for each major component, th
 ***
 ### Motor
 
+![Motor](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/1301/MFG_22S28.jpg)
+
+22N28-213E.286
+
+56.52$ each 
+
 **Choice:** Option 1
 
 **Rationale:** Selecting a standard DC motor for our project presents several key benefits. The bidirectional rotation capability eliminates the necessity for two motors operating in opposite directions, streamlining the design. DC motors are renowned for their durability, ensuring a longer operational life, a crucial factor for the sustained functionality of our mobile weather station.
 Moreover, the inherent characteristic of DC motors to operate at lower noise levels aligns perfectly with our project's requirements. By opting for a DC motor, we not only ensure reliable bidirectional motion but also prioritize a quieter operation, contributing to the overall effectiveness and acceptance of our mobile weather station among its environmental surroundings.
 
 ***
+
 ### Temperature Sensor
+
+![Sen](https://m.media-amazon.com/images/I/317S7jPKDQL._SY445_SX342_QL70_FMwebp_.jpg)
+
+P3T1755DPZ
+
+$0.45 each 
 
 **Choice:** Option 3
 
@@ -34,12 +53,24 @@ At first Option 1 seemed like a good pick during our research. It had a stronger
 ***
 ### Humidity Sensor
 
+![sens](https://m.media-amazon.com/images/I/51ZhGYdTxgL._SX522_.jpg)
+
+SHT40-AD1B-R2
+
+$2.58 each
+
 **Choice:** Option 1
 
 **Rationale:** The SHT40-AD1B-R2 is the preferred sensor due to its cost-effectiveness compared to the other humidity sensors available on the market. The sensor offers high precision and accuracy which is crucial for the successful operation of the weather station. The sensor also provides a digital output and supports standard communication interfaces like SPI or I2C and can be easily integrated into microcontroller based systems.
 
 ***
 ### Non-Inverting Op-Amp
+
+![OpampNONINV](https://m.media-amazon.com/images/I/41I93DRzzAL._SY445_SX342_QL70_FMwebp_.jpg)
+
+LM324D
+
+$0.92 each
 
 **Choice:** Option 1
 
@@ -48,12 +79,24 @@ At first Option 1 seemed like a good pick during our research. It had a stronger
 ***
 ### Switching Regulator
 
+![SwitchingReg](https://m.media-amazon.com/images/I/41fLNl-YymL._SX522_.jpg)
+
+AP3012KTR-G1
+
+$0.47 each 
+
 **Choice:** Option 2
 
 **Rationale:** Our first option was to explore Option 1. Our team is very comfortable with the LM2575T and it met our requirements. However, it is unfortunately through-hole, so it had to be eliminated. This left us with Options 2 and 3. For our project we have a system that runs on 3.3V. However, there is one component that operates outside that range at 9V. So this regulator has to be able to meet those requirements. Since both were the same in price, we decided to focus on this. Option 3 maxes out at 7V when it comes to V output while the can go way beyond that (max 29V). It is possible that the 500mA output could be a source of problems for option 2 but a preliminary investigation of current requirements seems to suggest that current demand will not be that high. Therefore our team decided to go with the one within the Voltage rating of our motor which was option 2.
 
 ***
 ### Rechargable Power Source
+
+![Battery](https://m.media-amazon.com/images/I/61EIKTPeVAL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
+
+9.6V 1500mAh NI-MH Rechargeable Battery Pack 
+
+$11.98 each
 
 **Choice:** Option 3
 
