@@ -15,7 +15,28 @@ Keywords: [Gas Sensor](https://www.amazon.com/BTMETER-Detector-Relative-Temperat
 * Price: $149.99
 * Vendor: Amazon
 * Description:  An indoor Air Quality Meter Monitor that measures Gas 0~100 PPM, Relative Humidity and Temperature, Rechargeable Ammonia Gauge with Alarm, Backlit LCD Display..
+
+**Search #1 Positive Comments**
+
+| Voice of the Customer | Restated Customer Need |
+|-----------------------|-----------------------|
+| This ammonia gas detector can accurately detect gas/ammonia while also keeping track of the temperature (both C/F) and humidity. It has a tripod mount port so you can mount it and have it continually monitor things to get an accurate reading of change in the same spot. The case could be better, but it gets the job done and the detector works great. | 1. Accurate gas detection - Explicit 2. Stable and continuous monitoring via tripod mount - Explicit 3. Environmental monitoring of the humidity and temperature - Explicit |
+| This is a good gas detector. Seems to be working correctly. Not hard to use. Seems to give me good readings. The case is made out of a hard plastic and is wrapped with a shock absorber hard rubberized type material to protect it against drops. I still would take precautions against doing so. Seems to be well made. Does come with directions for use. I do like how the detector comes with a temperature and humidity screen. The only complaint I have about this is the case. I mean for a quality detector there should be a quality case to put it in. Come on now. For something of this value it should be finished off with a great case. If it wasn’t for that I would give this 5 stars. | 1. Durable and protective case - Latent 2. User-friendly operation - Explicit 3. Enhanced aesthetics for quality perception - Explicit | 
+| This meter works well and has the same ammonia reading as the five gas meter we were using. The readout is hard to see in bright sunlight but is great inside silos. | 1. Readout visibility in varying lighting conditions - Latent 2. Effective usage in specific environments - Explicit 3. Accurate ammonia reading - Explicit |
+
 ***
+
+**Search #1 Negative Comments**
+
+| Voice of the Customer | Restated Customer Need |
+|-----------------------|-----------------------|
+| Product worked great for 7 months. Then stopped charging with just a red blinking light. Expensive given the short life cycle. | 1. Reliable and long-lasting performance - Explicit 2. Effective charging mechanism - Latent 3. Value for money and durability - Explicit |
+| It does what it is supposed to do. Unit doesn’t last long, though. It’s made pretty flimsy. Definitely the best price you’ll find. | 1. Durability and longevity - Explicit 2. Affordability - Explicit 3. Functional performance - Explicit |
+| While the product initially performs its function, I've noticed a significant decline in its effectiveness over time. The build quality is questionable, and the unit seems prone to wear and tear. Despite the seemingly attractive price, the short lifespan and deterioration in performance make it less appealing in the long run. | 1. Reliable long-term performance - Explicit 2. Durable - Latent 3. Performance over cost - Latent |
+
+
+***
+
 **Search #2**                              ![Weather Station](https://m.media-amazon.com/images/I/51fSHzJV5dL._SL1000_.jpg)
 
 Keywords: [Weather Station](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI/ref=asc_df_B01N5TEHLI/?tag=hyprod-20&linkCode=df0&hvadid=216545230264&hvpos=&hvnetw=g&hvrand=4118231792750821243&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030088&hvtargid=pla-350685252410&mcid=c22c1fd6b5e73c608455febe4bc07523&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3I438FST6Y3LU0slj6HxrToM2DMYu9QAL_va0k3R6iUAkk_yjM_ymEaAvdmEALw_wcB&th=1)
