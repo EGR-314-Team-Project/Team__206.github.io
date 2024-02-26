@@ -95,6 +95,44 @@ Keywords: [Small Weather Station](https://www.amazon.com/AcuRite-00622-Weather-T
 
 ***
 
+
+## User Needs
+
+### Grouped User Needs
+
+* EXPLICIT - Small
+* LATENT - Lightweight
+* EXPLICIT - Easy to use
+* EXPLICIT - Easy to install
+* EXPLICIT - Automates a task
+* EXPLICIT - Internet connectivity using MQTT
+* EXPLICIT - Easy to maintain 
+* EXPLICIT - Portable
+* EXPLICIT - Easy to integrate with existing systems
+* EXPLICIT - Durable
+* EXPLICIT - Able to withstand high temperatures (43C)
+* EXPLICIT - Able to withstand low temperatures (1C)
+* EXPLICIT - Self sufficient 
+* EXPLICIT - Notifies when maintenance is required
+* EXPLICIT - Resistant to high winds speeds (haboobs)
+* EXPLICIT - Low power consumption
+* EXPLICIT - Backup data storage option in case of internet outage
+* EXPLICIT - Option to read humidity
+* EXPLICIT - Option to read wind speeds
+* EXPLICIT - Support integration with smart home systems
+* EXPLICIT - Weather resistant cover
+* LATENT Aesthetically pleasing to look at
+* EXPLICIT - Option to read temperature
+* LATENT - Color scheme matches environment
+* EXPLICIT - Cheap (under $180)
+* LATENT - Materials and colors chemically safe for animals 
+* LATENT - Clear and legible screen under different lightings 
+* LATENT - Compatible with a variety of devices
+
+**Passive Enginnerring Needs, Active Engineering Needs, Cosmetics and Grouped User Needs in Appendix B**
+
+***
+
 ## Jamboard
 
 Once the needs were thoroughly understood and weighted, the team proceeded to convert them into precise specifications. This involved translating user needs into functional requirements. For example, if users emphasized the need for accurate temperature readings, a specification was developed: "Temperature sensor with an accuracy of ±1°C." Design considerations were also incorporated into these specifications, addressing how each need would be met. For instance, if durability was a crucial requirement, specifications included details about materials and construction methods ensuring the product's longevity.
