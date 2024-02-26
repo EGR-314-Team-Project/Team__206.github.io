@@ -23,7 +23,7 @@
 [Design Ideation Link](DesignIdeation/DesignPage.md)
 
 ## Selected Design
-[Selected Design Link](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/SelectedDesign/SelectedDesign.md)
+[Selected Design Link](SelectedDesign/SelectedDesign.md)
 
 ## Block Diagram
 [Block Diagram Link](BlockDiagram/BD_ShowPDF.md)
