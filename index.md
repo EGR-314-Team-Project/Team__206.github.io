@@ -35,7 +35,7 @@
 [Microcontroller Selection Link](MicrocontrollerSelection/MicrocontrollerSelection.md)
 
 ## Hardware Proposal
-[Hardware Proposal Link](Proposal.md)
+[Hardware Proposal Link](HardwareProposal/HardwareProposal.md)
 
 ## Software Proposal
 [Software Proposal Link](SoftwareDiagram/SoftwareDiagram.md)
