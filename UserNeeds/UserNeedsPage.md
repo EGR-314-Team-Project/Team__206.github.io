@@ -48,7 +48,9 @@ Keywords: [Weather Station](https://www.amazon.com/Ambient-Weather-WiFi-Station/
 * Description:  An indoor Air Quality Meter Monitor that measures Gas 0~100 PPM, Relative Humidity and Temperature, Rechargeable Ammonia Gauge with Alarm, Backlit LCD Display..
 ***
 **Search #3**                              ![Portable Weather Station](https://m.media-amazon.com/images/I/31TaKuy4jtL.jpg)
+
 **"Figure 3: Portable Weather Station"**
+
 Keywords: [Portable Weather Station](https://www.amazon.com/Tempest-Weather-Accurate-Forecasts-Wireless/dp/B0868WY7NY/ref=sr_1_11_sspa?keywords=portable+weather+station&qid=1705637837&sr=8-11-spons&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
 
 * Price: $339.00
