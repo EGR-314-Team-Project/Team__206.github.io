@@ -1,3 +1,7 @@
-<iframe src="https://drive.google.com/file/d/1HVIc9jJkFvQ4Jot9zYMPElf27GujzjUR/preview?usp=drivesdk" width="100%" height="600"></iframe>
+# Block Diagram
 
+![Block Diagram](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/AppendixFolder/image.png)
 
+The block diagram depicted comprises four distinct subsystems: a PIC microcontroller, a temperature sensor, a motor driver responsible for motor control, and a switching regulator circuit powered by a pushbutton, providing a regulated 3.3-volt output voltage to the microcontroller. The temperature sensor interfaces with the microcontroller via three GPIO pins, facilitating communication through the I2C interface. Similarly, the motor driver connects to four microcontroller pins, enabling communication through the SPI interface. Additionally, two pins from the motor driver link to the 9V DC motor. This comprehensive diagram illustrates the interconnected components and their respective communication protocols, offering a clear overview of the system architecture.
+
+Our block diagram effectively fulfills the product requirements by incorporating the necessary subsystems and communication interfaces essential for the concurrent operation of our system components. Each subsystem, including the PIC microcontroller, temperature sensor, motor driver, and switching regulator circuit, is seamlessly integrated, ensuring the fulfillment of our system's functionalities. By employing the appropriate communication interfaces, such as I2C for the temperature sensor and SPI for the motor driver, our design enables synchronized operation, allowing all subsystems to function simultaneously and meet the desired performance objectives.
