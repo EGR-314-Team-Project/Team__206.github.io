@@ -8,6 +8,8 @@ With a focus on providing three viable alternatives for each major component, th
 
 **Component Tables in Appendix C**
 
+**Power Budget in Appendix E**
+
 
 ### Motor Driver
 
