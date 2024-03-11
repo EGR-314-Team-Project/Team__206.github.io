@@ -4,7 +4,7 @@
 
 ## Team Schematic
 
-![Team Schematic](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/AppendixFolder/image.png?raw=true)
+![Schematic](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/AppendixFolder/Screenshot%202024-03-11%20153903.png?raw=true)
                                        
                                            Figure 1.0: Team 206 Combined Schemtic
 
