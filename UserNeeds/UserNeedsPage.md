@@ -58,7 +58,9 @@ Keywords: [Portable Weather Station](https://www.amazon.com/Tempest-Weather-Accu
 * Description: A small portable weather station that measures temperature, solar radiation and UV, humidity, barometric pressure, wind speed and direction, dew point, lightning strikes and rainfall.
 ***
 **Search #4**                               ![Mini Weather Station](https://m.media-amazon.com/images/I/51wJMYd+eyL._SL1000_.jpg)
-**Figure 4: MiniWeather Station"**
+
+**"Figure 4: MiniWeather Station"**
+
 Keywords: [Mini Weather Station](https://www.amazon.com/Upgraded-ECOWITT-Wittboy-Supports-WeatherCloud/dp/B0BM3BQ425/ref=sr_1_11_sspa?keywords=portable%2Bweather%2Bstation&qid=1705638646&sr=8-11-spons&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)
 
 * Price: $300.00
