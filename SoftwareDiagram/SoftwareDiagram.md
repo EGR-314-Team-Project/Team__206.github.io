@@ -1,2 +1,2 @@
-![Alt Text](SoftwareDiagram/Software_Diagram_Final.jpg)
+![Alt Text](Software_Diagram_Final.jpg)
 
