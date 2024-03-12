@@ -1,6 +1,7 @@
 # Block Diagram
 
 ![Block Diagram](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/AppendixFolder/image.png)
+<img src="https://drive.google.com/uc?id=115XLpuUEcf53lcP2jxzlV7MDkajC5sD0" alt="Your Image Alt Text">
 
 **"Figure 15: Block Diagram"**
 
