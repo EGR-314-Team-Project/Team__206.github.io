@@ -6,7 +6,7 @@
 
 ![Schematic](https://github.com/EGR-314-Team-Project/Team__206.github.io/blob/main/AppendixFolder/Screenshot%202024-03-11%20153903.png?raw=true)
                                        
-                                           Figure 1.0: Team 206 Combined Schemtic
+**"Figure 16: Team 206 Combined Schemtic"**
 
 ### Switching Regulator:
 The above schmetic depicts how the circuit layout for each team members combined subsystem would interact with each other in order to how our device function properly. The circuitry begins at the 4.5 volt power source transmitting power through a 3.3 volt switching regulator circuit which utilizes an inductor for energy storage. During the switching operation, the inductor stores energy in its magnetic field when the current through it increases. When the switch turns off, the inductor releases this stored energy to the load. This allows the switching regulator to regulate the output voltage efficiently. In a switching regulator circuit, two resistors in series are often used as a voltage divider network to provide feedback for regulating the output voltage. This feedback mechanism is crucial for maintaining the desired output voltage level. The two resistors form a voltage divider network across the output voltage. The output voltage is compared to a reference voltage (often a fraction of the output voltage) to determine if it needs adjustment.
