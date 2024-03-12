@@ -4,7 +4,7 @@
 <img src="https://drive.google.com/uc?id=115XLpuUEcf53lcP2jxzlV7MDkajC5sD0" alt="Your Image Alt Text">
 ![Block Diagram](BlockDiagram/Block Diagram New 314.jpg)
 **"Figure 15: Block Diagram"**
-
+![hello](BlockDiagram/Block Diagram New 314.jpg)
 The block diagram depicted comprises four distinct subsystems: a PIC microcontroller, a temperature sensor, a motor driver responsible for motor control, and a switching regulator circuit powered by a pushbutton, providing a regulated 3.3-volt output voltage to the microcontroller. The temperature sensor interfaces with the microcontroller via three GPIO pins, facilitating communication through the I2C interface. Similarly, the motor driver connects to four microcontroller pins, enabling communication through the SPI interface. Additionally, two pins from the motor driver link to the 9V DC motor. This comprehensive diagram illustrates the interconnected components and their respective communication protocols, offering a clear overview of the system architecture.
 
 Our block diagram effectively fulfills the product requirements by incorporating the necessary subsystems and communication interfaces essential for the concurrent operation of our system components. Each subsystem, including the PIC microcontroller, temperature sensor, motor driver, and switching regulator circuit, is seamlessly integrated, ensuring the fulfillment of our system's functionalities. By employing the appropriate communication interfaces, such as I2C for the temperature sensor and SPI for the motor driver, our design enables synchronized operation, allowing all subsystems to function simultaneously and meet the desired performance objectives.
