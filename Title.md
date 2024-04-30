@@ -1,4 +1,4 @@
-Project name: Weather Station
+Project name: Cooling Beehive
 
 Team number: 206
 
