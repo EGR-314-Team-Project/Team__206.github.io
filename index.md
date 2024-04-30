@@ -3,11 +3,11 @@
 ---
 
 # Title
-* Weather Station
+* Cooling Beehive
 
 * Team 206
 
-* Damien, Rishik, Danial
+* Damien, Rishik, JJ 
 
 * January 27th, 2024
 
